@@ -1,5 +1,5 @@
 def test_comments():
-    with open("../Tasks/001_task_comments.py", encoding='utf-8') as f:
+    with open("../Tasks/task_01.py", encoding='utf-8') as f:
         text = f.read()
 
     lines = text.split('\n')
