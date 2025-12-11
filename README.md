@@ -1,7 +1,11 @@
 # learn-python-by-doing
-An interactive Python tutorial with modular theory, excercises, solutions and automated tests. Clone, install, code, test!
+An interactive Python tutorial with modular theory, exercises, solutions and automated tests. Clone, install, code, test!
 
-Тут в будущем будет больше всего
+Этот репозиторий - практический учебник по Python
+
+Каждый модуль содержит краткую теорию, упражнения и тесты
+
+Учишься и сразу проверяешь себя!
 
 ## Для начала работы
 В консоли
