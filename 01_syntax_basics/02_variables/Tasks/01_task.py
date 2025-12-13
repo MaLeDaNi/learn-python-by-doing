@@ -5,7 +5,3 @@
 Создай переменную minimal_age и присвой ей значение None.
 
 """
-
-number = 1024
-name = 'Alex'
-minimal_age = None
